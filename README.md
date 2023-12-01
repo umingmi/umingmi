@@ -36,3 +36,9 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lumanog.dev@gmail.com)
 
+<h1> <img height='50' src='https://cdn3.emoji.gg/emojis/6473-kuromi-death.gif'/>Projects</h1>
+
+[SINGING BEE](https://github.com/aprilspeight) |  
+--- | 
+<img width="300" src='https://github.com/umingmi/umingmi/blob/main/lib.png'/> | 
+
