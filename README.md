@@ -13,3 +13,18 @@
   </div>
 </div>
 
+<h1> <img height="40" src='https://cdn3.emoji.gg/emojis/2202-kuromiwave.gif'/> Passionate Innovative Computer Science Student from Philippines</h1>
+
+★ Currently working on a project for my university
+
+★ Currently learning **Python, HTML5, CSS3, REACTJS**
+
+★ I like to study hard stuffs. Studying how to fly a plane atm
+
+<h1> <img height='50' src='https://cdn3.emoji.gg/emojis/6473-kuromi-death.gif'/> Connect </h1>
+
+[![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ianaumi/)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauro_brant-1/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lumanog.dev@gmail.com)
+
