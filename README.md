@@ -22,9 +22,7 @@
 ### 👉 Frameworks
 <p align="left"> 
 &emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
      ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-   </a>
   &emsp; 
   <a href="https://www.tensorflow.org/" target="_blank"> 
    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
