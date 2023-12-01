@@ -1,4 +1,4 @@
-### I'm umi! 👋
+ ### I'm umi! 👋
 [![GitHub Streak](https://streak-stats.demolab.com/?user=umingmi&theme=icegray)](https://git.io/streak-stats)
 
 ## 🛠️ My Skills
@@ -8,10 +8,6 @@
 <p align="left"> 
   
 
-  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  </a>
-&emsp;
 <a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
@@ -27,7 +23,7 @@
 <p align="left"> 
 &emsp;
   <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+     ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    </a>
   &emsp; 
   <a href="https://www.tensorflow.org/" target="_blank"> 
