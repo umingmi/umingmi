@@ -1,4 +1,4 @@
-<img src="https://github.com/umingmi/umingmi/blob/main/banner-test.png" align="center" alt="berkeli header image">
+<img src="https://github.com/umingmi/umingmi/blob/main/umibanner.png" align="center" alt="berkeli header image">
 
 <div align=center>
   <img style="height:100%;width:49%;max-width: 100%" src="https://streak-stats.demolab.com/?user=umingmi&theme=icegray"/>
