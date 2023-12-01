@@ -38,7 +38,7 @@
 
 <h1> <img height='50' src='https://cdn3.emoji.gg/emojis/6473-kuromi-death.gif'/>Projects</h1>
 
-[SINGING BEE](https://github.com/aprilspeight) |  
+[SINGING BEE](https://ianaumi.itch.io/singing-bee) |  
 --- | 
 <img width="150" src='https://github.com/umingmi/umingmi/blob/main/lib.png'/> | 
 
