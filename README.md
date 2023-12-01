@@ -1,6 +1,6 @@
- ### I'm umi! 👋
+<img src="https://github.com/umingmi/umingmi/blob/main/banner-test.png" align="center" alt="berkeli header image">
 
-<div style="display:flex;align-items:space-between;justify-content:center">
+<div align=center>
   <img style="height:100%;width:49%;max-width: 100%" src="https://streak-stats.demolab.com/?user=umingmi&theme=icegray"/>
   <div>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>     <img  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>      
