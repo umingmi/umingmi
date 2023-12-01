@@ -40,5 +40,5 @@
 
 [SINGING BEE](https://github.com/aprilspeight) |  
 --- | 
-<img width="300" src='https://github.com/umingmi/umingmi/blob/main/lib.png'/> | 
+<img width="150" src='https://github.com/umingmi/umingmi/blob/main/lib.png'/> | 
 
