@@ -13,7 +13,7 @@
   </div>
 </div>
 
-<h1> <img height="40" src='https://cdn3.emoji.gg/emojis/2202-kuromiwave.gif'/> Passionate Innovative Computer Science Student from Philippines</h1>
+<h1> <img height="40" src='https://cdn3.emoji.gg/emojis/2202-kuromiwave.gif'/> Innovative Explorer</h1>
 
 ★ Currently working on a project for my university
 
