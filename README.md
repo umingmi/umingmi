@@ -27,7 +27,7 @@
 
 ★ Currently learning **Python, HTML5, CSS3, REACTJS**
 
-★ I like to study hard stuffs. Studying how to fly a plane atm
+★ I like to study hard stuff. Studying how to fly a plane atm
 
 <h1> <img height='50' src='https://cdn3.emoji.gg/emojis/6473-kuromi-death.gif'/> Connect </h1>
 
